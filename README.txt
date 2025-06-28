@@ -1,8 +1,3 @@
-//profile-title: base64:QWxlcGgg4p2k8J+kjfCfkpogRlJFRTJDT05GSUc=
-//profile-update-interval: 1
-//subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
-#profile-web-page-url: @FREE2CONFIG
-
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA
