@@ -1,0 +1,12 @@
+//profile-title: base64:QWxlcGgg4p2k8J+kjfCfkpogRlJFRTJDT05GSUc=
+//profile-update-interval: 1
+//subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
+#profile-web-page-url: @FREE2CONFIG
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.99.162.239:443
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.99.205.56:443
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.99.203.65:443
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.99.145.219:443
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.99.150.74:51615
+vless://bfc1c6a8-289c-4f07-a8c1-e186f22ffc4c@5.75.195.130:2025?encryption=none&security=none&serviceName=vless&type=grpc#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5.75.195.130:2025
+vless://5e950790-bf2e-463c-bea5-2e3dcb0cc1d8@57.129.41.216:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-57.129.41.216:80
