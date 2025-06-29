@@ -1,4 +1,3 @@
-wireguard://4AFa3R2LzGhDmTybnsF3dyTo%2BX%2F8EIOYovfE0KsS7XM%3D@188.114.98.0:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f61%3A58eb%3Ac637%3A1f08%3Aa960%2F128&presharedkey=&reserved=9%2C186%2C238&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%D8%A7%D8%B3%D9%81%D9%86%D8%AF%DB%8C%D8%A7%D8%B1
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA
